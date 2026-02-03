@@ -2,9 +2,12 @@
 
 A futuristic, cyberpunk-inspired geolocation finder that reveals your coordinates with a dramatic Matrix-style decoding animation.
 
+
 ![Project Preview](preview.png)
 
 ## ✨ Features
+![Uploading Screenshot 2026-02-03 at 1.50.45 PM.png…]()![Uploading Screenshot 2026-02-03 at 1.51.26 PM.png…]()
+
 
 - **Matrix Aesthetic**: Full-screen digital rain background with a custom canvas implementation.
 - **Cyberpunk UI**: Centralized "Initiate Trace" button with neon glow effects and scanline overlays.
