@@ -1,13 +1,12 @@
+
+
+<img width="1622" height="1008" alt="Screenshot 2026-02-03 at 1 51 26 PM" src="https://github.com/user-attachments/assets/694d2e81-ff05-4197-ab94-42a6e75a8979" />
+
 # 🌍 Geolocation Matrix
 
 A futuristic, cyberpunk-inspired geolocation finder that reveals your coordinates with a dramatic Matrix-style decoding animation.
 
-
-![Project Preview](preview.png)
-
 ## ✨ Features
-![Uploading Screenshot 2026-02-03 at 1.50.45 PM.png…]()![Uploading Screenshot 2026-02-03 at 1.51.26 PM.png…]()
-
 
 - **Matrix Aesthetic**: Full-screen digital rain background with a custom canvas implementation.
 - **Cyberpunk UI**: Centralized "Initiate Trace" button with neon glow effects and scanline overlays.
